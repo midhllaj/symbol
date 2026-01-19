@@ -1,0 +1,12 @@
+{
+  "name": "gravity-global-clone",
+  "version": "1.0.0",
+  "description": "Static website clone of Gravity Global",
+  "scripts": {
+    "start": "npx -y http-server -p 8080 -o",
+    "dev": "npx -y http-server -p 8080 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
